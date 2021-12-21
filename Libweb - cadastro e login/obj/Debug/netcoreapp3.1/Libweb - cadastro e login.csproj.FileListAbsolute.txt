@@ -1,0 +1,21 @@
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.exe
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.deps.json
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.runtimeconfig.json
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.runtimeconfig.dev.json
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.dll
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\bin\Debug\netcoreapp3.1\Libweb - cadastro e login.pdb
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.csproj.AssemblyReference.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.AssemblyInfoInputs.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.AssemblyInfo.cs
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.csproj.CoreCompileInputs.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\staticwebassets\Libweb - cadastro e login.StaticWebAssets.Manifest.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\staticwebassets\Libweb - cadastro e login.StaticWebAssets.xml
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\scopedcss\bundle\Libweb - cadastro e login.styles.css
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.RazorTargetAssemblyInfo.cache
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.dll
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.pdb
+C:\Users\marin\Pasta VSCode - Marina\Libweb - cadastro e login\Libweb - cadastro e login\obj\Debug\netcoreapp3.1\Libweb - cadastro e login.genruntimeconfig.cache
